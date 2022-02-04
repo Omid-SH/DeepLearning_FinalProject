@@ -21,11 +21,11 @@ You can run GUI part separately, but pay attention to running the preparing data
 ## Sample Results
 
 <p align="center">
-  <img src="https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-1.png" width="256" height="455">
-  <img src="https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-2.png" width="256" height="455">
-  <img src="https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-3.png" width="256" height="455">
+  <img src="https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-1.png" width="600">
+  <img src="https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-2.png" width="600">
+  <img src="https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-3.png" width="600">
+  <img src="https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-4.png" width="600">
+  <img src="https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-5.png" width="600">
+  <img src="https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-6.png" width="600">
+  <img src="https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-7.png" width="600">
 </p>
-
-<img src="https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-1.png" width="48">
-<img src="https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-2.png" width="48">
-<img src="https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-3.png" width="48">
