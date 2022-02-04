@@ -17,3 +17,9 @@ After preprocessing and generating bounding boxes from each image mask, we saved
 Then we estimated the errors of the combined network and developed a GUI at the last part.
 
 You can run GUI part separately, but pay attention to running the preparing dataset subsection and the first two blocks of the GUI part before running the last one.
+
+## Sample Results
+
+![Sample Image1](https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-1.png)
+![Sample Image2](https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-2.png)
+![Sample Image3](https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-3.png)
