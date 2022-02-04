@@ -20,6 +20,12 @@ You can run GUI part separately, but pay attention to running the preparing data
 
 ## Sample Results
 
-![Sample Image1](https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-1.png)
-![Sample Image2](https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-2.png)
-![Sample Image3](https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-3.png)
+<p align="center">
+  <img src="https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-1.png" width="256" height="455">
+  <img src="https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-2.png" width="256" height="455">
+  <img src="https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-3.png" width="256" height="455">
+</p>
+
+<img src="https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-1.png" width="48">
+<img src="https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-2.png" width="48">
+<img src="https://github.com/Omid-SH/DeepLearning_FinalProject/blob/main/sample-outputs/sample-3.png" width="48">
